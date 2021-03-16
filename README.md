@@ -9,7 +9,7 @@ You can contact me on<br/><br/><a href="https://www.linkedin.com/in/roxana-flore
 
 <br/>
 
-<h2 align="center">:computer:Tech Stack:rocket:</h2>
+<h2 align="center">:computer:Tech Stack:rocket:</h2><br/>
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -28,9 +28,18 @@ You can contact me on<br/><br/><a href="https://www.linkedin.com/in/roxana-flore
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
- </p>
+<br/>
+ 
+ <h2 align="center">:computer:What I'm currently learning</h2><br/>
+
+<p align="center">
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+
+</p><br/>
 
 
+ <a align="center">
+ 
 ![](https://github.com/roxana-florea/git-stats/blob/master/generated/languages.svg)
 ![](https://github.com/roxana-florea/git-stats/blob/master/generated/overview.svg)
 
