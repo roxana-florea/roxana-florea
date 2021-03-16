@@ -1,7 +1,8 @@
 ![banner](https://github.com/roxana-florea/roxana-florea/blob/main/IMG_20210316_172600.jpg)</br></br>
-
+<hr/>
 <p align="center">I'm a passionate and creative full stack web developer based in London. Feel free to browse through my projects!</p>
-
+<p align="center">You can contact me on <a href="https://www.linkedin.com/in/roxana-florea-53155a83/">LinkedIn</a>
+<hr/></br>
 <h3 align="center">Tech Stack</h3>
 
 
