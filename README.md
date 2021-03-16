@@ -1,6 +1,4 @@
 ![banner](https://github.com/roxana-florea/roxana-florea/blob/main/IMG_20210316_172600.jpg)</br></br>
-___
-
 
 <p align="center">
   I'm a passionate and creative full stack web developer based in London. Feel free to browse through my projects!<br/>
@@ -8,10 +6,10 @@ You can contact me on<br/><br/><a href="https://www.linkedin.com/in/roxana-flore
 
 </p>
 
-___
+
 <br/>
 
-<h3 align="center">:computer:Tech Stack</h3>
+<h2 align="center">:computer:Tech Stack</h2>
 
 <a href="https://github.com/jstrieb/github-stats" align="center">
 
