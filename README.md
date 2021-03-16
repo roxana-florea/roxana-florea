@@ -39,7 +39,7 @@ You can contact me on<br/><br/><a href="https://www.linkedin.com/in/roxana-flore
 <h2 align="center">Github stats 📈</h2><br/>
  <p align="center">
  
-![](https://github.com/roxana-florea/git-stats/blob/master/generated/languages.svg)
-![](https://github.com/roxana-florea/git-stats/blob/master/generated/overview.svg)
+<img src="https://github.com/roxana-florea/git-stats/blob/master/generated/languages.svg"/>
+<img src="https://github.com/roxana-florea/git-stats/blob/master/generated/overview.svg"/>
 
 </p>
