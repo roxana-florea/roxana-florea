@@ -28,11 +28,7 @@ You can contact me on<br/><br/><a href="https://www.linkedin.com/in/roxana-flore
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 <br/>
- 
- <h2 align="center">:computer:What I'm currently learning</h2><br/>
 
-<p align="center">
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 
 </p><br/>
 <h2 align="center">Github stats 📈</h2><br/>
