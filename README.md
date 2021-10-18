@@ -29,15 +29,13 @@ You can contact me on<br/><br/><a href="https://www.linkedin.com/in/roxana-flore
 </p>
 
 
-<a href="https://github.com/jstrieb/github-stats" align="center">
 <br/>
-
 
 </p><br/>
 <h2 align="center">Github stats 📈</h2><br/>
- <p align="center">
- 
-<img src="https://github.com/roxana-florea/git-stats/blob/master/generated/languages.svg"/>
-<img src="https://github.com/roxana-florea/git-stats/blob/master/generated/overview.svg"/>
 
-</p>
+![Roxana's GitHub stats](https://github-readme-stats.vercel.app/api?username=roxana-florea&show_icons=true&theme=synthwave)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=roxana-florea&langs_count=5&theme=synthwave)]()
+
+
+
